@@ -1,0 +1,32 @@
+Microsoft Windows [Version 10.0.17763.1039]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+D:\Users\sudheer.kumar>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : regeneron.regn.com
+   Link-local IPv6 Address . . . . . : fe80::fdf0:16fb:822c:3cbd%13
+   IPv4 Address. . . . . . . . . . . : 10.240.233.75
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 10.240.232.1
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : ec2.internal
+   Link-local IPv6 Address . . . . . : fe80::81a5:5391:4335:fd8%5
+   IPv4 Address. . . . . . . . . . . : 100.70.117.106
+   Subnet Mask . . . . . . . . . . . : 255.255.192.0
+   Default Gateway . . . . . . . . . : 100.70.64.1
+
+D:\Users\sudheer.kumar>hostname
+DESKTOP-UPMOTCC
+
+D:\Users\sudheer.kumar>
+
+s.sudheer.kumar
+Welcome1P@55w0rd!
+HyderabadTSIN@9140
